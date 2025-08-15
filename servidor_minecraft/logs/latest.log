@@ -1,0 +1,53 @@
+[17:45:02] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[17:45:02] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21
+[17:45:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/zombies91/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:45:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:45:14] [main/INFO]: No existing world data, creating new world
+[17:45:15] [main/INFO]: Loaded 1290 recipes
+[17:45:15] [main/INFO]: Loaded 1399 advancements
+[17:45:16] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:45:16] [Server thread/INFO]: Loading properties
+[17:45:16] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:16] [Server thread/INFO]: Generating keypair
+[17:45:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:45:17] [Server thread/INFO]: Using epoll channel type
+[17:45:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:45:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:45:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:45:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:45:17] [Server thread/INFO]: Preparing level "world"
+[17:45:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:45:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:45:41] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[17:45:42] [Server thread/INFO]: Time elapsed: 10001 ms
+[17:45:42] [Server thread/INFO]: Done (24.939s)! For help, type "help"
+[17:45:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:45:42] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/zombies91/coso.py<--[HERE]
+[17:46:47] [Server thread/INFO]: Si_MeduA (/127.27.187.89:49617) lost connection: Disconnected
+[17:46:55] [Server thread/INFO]: Si_MeduA[/127.27.187.89:34471] logged in with entity id 3 at (-245.5, 64.0, -148.5)
+[17:46:55] [Server thread/INFO]: Si_MeduA joined the game
+[17:47:44] [Server thread/WARN]: Si_MeduA moved too quickly! -8.386196306663152,0.8787031594607981,-5.46546072365274
+[17:47:45] [Server thread/INFO]: Si_MeduA lost connection: Disconnected
+[17:47:45] [Server thread/INFO]: Si_MeduA left the game
